@@ -1,8 +1,8 @@
 ### Olá tudo bem? 👋
 
-### Me chamo Nicolas
+### Me chamo Nicolas Estanislau 
 
-### Sou desenvolvedor Front-en
+### Sou desenvolvedor Front-end
 
 ---
 

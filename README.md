@@ -2,7 +2,7 @@
 
 ### Me chamo Nicolas Estanislau
 
-### Sou desenvolvedor Front-end
+### Sou desenvolvedor Full Stack
 
 <div>
 

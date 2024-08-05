@@ -2,10 +2,15 @@
 
 # 👋 Hi there
 
+```
 I'm Nicolas Estanislau, a passionate software developer and tech enthusiast. </br>
 With over 3 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
 Achievement resides in the realm of action, not mere intention
+```
+<hr />
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Full%20Stack;Experiêcias%20Básicas%20do%20Usúario%20UI/UX;Mais%20de%203%20%20Anos%20%20de%20Experiência;Sempre%20Aprendendo%20Novas%20Tecnologias&font=Fedora&left=true&width=1000&height=70&color=2853d4&vCenter=true&pause=500&size=32">
 
 # 💻 Tech Stack
 

@@ -3,8 +3,9 @@
 # 👋 Hi there
 
 ```
-I'm Nicolas Estanislau, a passionate software developer and tech enthusiast. </br>
-With over 3 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
+I'm Nicolas Estanislau, a passionate software developer and tech enthusiast.
+With over 3 years of experience in the field, I've had the opportunity to work
+on various exciting projects and explore different technologies.
 
 Achievement resides in the realm of action, not mere intention
 ```
